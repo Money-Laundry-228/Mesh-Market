@@ -16,7 +16,8 @@
    - [Installation](#installation)  
    - [Running the Project](#running-the-project)  
 <!-- 7. [Configuration](#-configuration)   -->
-7. [Contribution Guide](#-contribution-guide)  
+7. [Contribution Guide](#-contribution-guide) 
+   - [Templates](#templates) 
    - [Branch Strategy](#branch-strategy)  
    - [Commit Convention](#commit-convention)  
    - [Code Style](#code-style)  
@@ -139,6 +140,10 @@ NEXT_PUBLIC_FIREBASE_PROJECT_ID=
 ---
 
 ## Contribution Guide
+
+### Templates
+To get templates for Issue, Pull Request, etc.
+Visit `docs/templates`
 
 ### Branch Strategy
 
