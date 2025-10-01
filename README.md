@@ -95,6 +95,9 @@ Frontend (Next.js)
 - glTF
 - NX
 - Vite 
+- Prisma ORM
+- PostgresSQL
+- TailwindCSS
 
 
 ## Getting Started
