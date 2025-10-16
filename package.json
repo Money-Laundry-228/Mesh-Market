@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@nx/workspace": "^21.6.5",
+    "nx": "21.6.5"
+  }
+}
