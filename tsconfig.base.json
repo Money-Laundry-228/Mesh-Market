@@ -18,5 +18,6 @@
     "baseUrl": ".",
     "paths": {}
   },
+  "include": ["apps/**/*", "libs/**/*"],
   "exclude": ["node_modules"]
 }

@@ -1,7 +1,7 @@
 {
   "name": "api",
-  "$schema": "../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "api/src",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/api/src",
   "projectType": "application",
   "tags": [],
   "targets": {
@@ -14,9 +14,9 @@
         "outputPath": "dist/api",
         "format": ["cjs"],
         "bundle": false,
-        "main": "api/src/main.ts",
-        "tsConfig": "api/tsconfig.app.json",
-        "assets": ["api/src/assets"],
+        "main": "apps/api/src/main.ts",
+        "tsConfig": "apps/api/tsconfig.app.json",
+        "assets": ["apps/api/src/assets"],
         "generatePackageJson": true,
         "esbuildOptions": {
           "sourcemap": true,
