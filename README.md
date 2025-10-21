@@ -90,6 +90,7 @@ Frontend (Next.js)
 - React
 - shadcn/ui
 - TanStack Table
+- React icons
 - Python
 - C++
 - WebGPU
